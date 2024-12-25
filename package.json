@@ -1,0 +1,15 @@
+{
+    "name": "cube_v1",
+    "version": "1.0.0",
+    "main": "src/index.ts",
+    "author": "Filipe Montebeller Rocha",
+    "license": "MIT",
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "dependencies": {
+        "@types/node": "^22.5.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
+}
